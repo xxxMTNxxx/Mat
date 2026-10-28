@@ -1,0 +1,9 @@
+
+{
+  "name": "matgram",
+  "version": "1.0.0",
+  "main": "matgram.js",
+  "scripts": {
+    "start": "node matgram.js"
+  }
+}
